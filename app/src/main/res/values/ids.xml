@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="reservedNamedId" type="id" />
+    <item name="reservedImageId" type="id" />
+
+
+    <item name="detailNamedId" type="id" />
+    <item name="detailImageId" type="id" />
+    <item name="detailDescriptionId" type="id" />
+
+
+</resources>

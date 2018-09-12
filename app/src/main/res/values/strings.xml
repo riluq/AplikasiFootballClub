@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Aplikasi Football Club</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+
+    <string-array name="description">
+        <item>Fútbol Club Barcelona, juga dikenal sebagai Barcelona atau Barça, adalah klub sepak bola profesional yang berbasis di Barcelona, Catalunya, Spanyol.
+
+Didirikan pada tahun 1899 oleh sekelompok pemain Swiss, Inggris dan Catalan yang dipimpin oleh Joan Gamper, klub telah menjadi simbol budaya Catalan dan Catalanisme, yang mempunyai motto "Més que un club" (Lebih dari sebuah klub). Tidak seperti banyak klub sepak bola lainnya, para pendukung memiliki dan mengoperasikan Barcelona. Ia adalah klub sepak bola kedua terkaya di dunia dalam hal pendapatan, dengan omset tahunan sebesar €560,8 juta dan kedua yang paling berharga, senilai $3,56 miliar.[2][3] Lagu kebangsaan resmi Barcelona adalah "Cant del Barça", yang ditulis oleh Jaume Picas dan Josep Maria Espinas.[4]</item>
+
+        <item>Real Madrid Club de Fútbol (pengucapan bahasa Spanyol: [reˈal maˈðɾið ˈkluβ ðe ˈfutβol]; Royal Madrid Football Club), umumnya dikenal sebagai Real Madrid, adalah klub sepak bola profesional yang berbasis di Madrid, Spanyol.
+
+Didirikan pada tahun 1902 sebagai Madrid Football Club, secara tradisional mengenakan kostum kandang putih. Kata Real ("dari kerajaan") Spanyol dan dianugerahkan ke klub oleh Raja Alfonso XIII pada tahun 1920 bersama-sama dengan mahkota kerajaan di lambang klub. Klub ini telah memainkan pertandingan kandang di Stadion Santiago Bernabéu dengan kapasitas 85.454 di pusat kota Madrid sejak tahun 1947.</item>
+
+        <item>Fußball-Club Bayern München e.V., juga dikenal sebagai FC Bayern München (pengucapan bahasa Jerman: [ʔɛf ˈt͡seː ˈbaɪ̯ɐn ˈmʏnçən]), FC Bayern Munich, atau FC Bayern, adalah sebuah klub olahraga Jerman yang berbasis di München, Bavaria. Hal ini terkenal karena tim sepak bola profesional, yang bermain di Bundesliga, peringkat teratas sistem liga sepak bola Jerman, dan merupakan klub paling sukses dalam sejarah sepak bola Jerman, setelah memenangkan rekor 28 gelar nasional dan 16 piala nasional.[2]
+
+FC Bayern didirikan pada tahun 1900 oleh sebelas pemain sepak bola yang dipimpin oleh Franz John.[3] Meskipun Bayern memenangkan kejuaraan nasional pertamanya pada tahun 1932,[4] klub itu tidak dipilih untuk Bundesliga pada awal tahun 1963.[5] Klub memiliki periode yang sukses terbesar di tengah tahun 1970-an, di bawah kapten dari Franz Beckenbauer, memenangkan Piala Eropa tiga kali berturut-turut (1974-1976). Secara keseluruhan, Bayern telah mencapai sepuluh final Piala Eropa/Liga Champions, yang terakhir memenangkan gelar kelima mereka pada tahun 2013 sebagai bagian dari treble benua. Bayern juga telah memenangkan satu Piala UEFA, satu Piala Winners UEFA, satu Piala Super UEFA, dua Piala Interkontinental dan satu Piala Dunia Antarklub FIFA, membuatnya menjadi salah satu klub Eropa yang paling sukses di dunia. Sejak pembentukan Bundesliga, Bayern telah menjadi klub yang dominan dalam sepak bola Jerman dengan 25 gelar dan telah memenangkan lima dari sepuluh gelar terakhir. Mereka memiliki persaingan lokal tradisional dengan TSV 1860 München dan 1. FC Nürnberg, serta persaingan kontemporer dengan Borussia Dortmund.</item>
+
+        <item>Manchester City Football Club (dikenal pula sebagai Man City atau The Citizens) adalah sebuah klub sepak bola profesional dari Inggris yang bermain di Liga Premier Inggris. Klub ini merupakaan klub sekota dengan Manchester United dan bermarkas di Stadion Etihad, Manchester.
+
+Pertandingan pertama dimainkan pada bulan November 1880. Pada saat itu masih bernama St Mark's (West Gorton). Pada tahun 1887 berubah nama menjadi Ardwick A.F.C, dan pada tahun 1894 menjadi Manchester City F.C.
+
+Manchester City telah memenangi Liga Inggris sebanyak 4 kali, Piala FA 5 kali, Piala Liga Inggris 4 kali, dan Piala Winners Eropa 1 kali. Periode tersukses klub ini terjadi pada era akhir tahun 1960-an dan awal 1970-an. Pada saat itu City di bawah asuhan manager Joe Mercer dengan asistennya Malcolm Allison dan beberapa pemain seperti Colin Bell, Mike Summerbee dan Francis Lee.</item>
+
+        <item>Manchester United Football Club adalah sebuah klub sepak bola profesional Inggris yang berbasis di Old Trafford, Manchester Raya, yang bermain di Liga Inggris. Didirikan sebagai Newton Heath LYR Football Club pada tahun 1878, klub ini berganti nama menjadi Manchester United pada 1902 dan pindah ke Old Trafford pada tahun 1910.
+
+Manchester United telah memenangkan banyak trofi di sepak bola Inggris, termasuk rekor 20 gelar Liga, 12 Piala FA,[5] empat Piala Liga dan rekor 21 FA Community Shield. Klub ini juga telah memenangkan tiga Piala Eropa, Piala UEFA satu Piala Winners UEFA, satu Piala Super UEFA, satu Piala Interkontinental dan satu Piala Dunia Antarklub FIFA. Pada 1998-1999, klub memenangkan treble dari Liga Premier, Piala FA dan Liga Champions, prestasi belum pernah terjadi sebelumnya untuk klub Inggris.</item>
+
+        <item>Chelsea Football Club /ˈtʃɛlsiː/ adalah sebuah klub sepak bola Inggris yang bermarkas di Fulham, London. Chelsea didirikan pada tahun 1905 dan kini berkompetisi di Liga Utama Inggris.
+
+Kesuksesan pertama Chelsea diraih saat meraih gelar juara liga pada tahun 1955. Beberapa gelar dari berbagai kompetisi juga berhasil diraih pada dekade 1960an, 1970an, 1990an, dan 2000an. Sepanjang sejarah penampilan dalam dunia sepak bola di Inggris dan Eropa, Chelsea telah meraih enam gelar juara Liga Utama Inggris, tujuh Piala FA, lima Piala Liga, satu trofi Liga Champions UEFA, dua Piala Winners UEFA, satu Liga Eropa UEFA dan satu Piala Super UEFA.[3] Dalam dua dekade terakhir merupakan periode terbaik kesuksesan Chelsea dengan meraih 22 gelar sejak tahun 1997, termasuk untuk pertama kali meraih gelar juara Double winner, Liga Utama Inggris dan Piala FA pada tahun 2010 serta gelar juara Liga Champions UEFA pada tahun 2012 dan Liga Eropa UEFA pada 2013.[4][5]</item>
+
+        <item>Associazione Calcio Milan (pengucapan bahasa Italia: [assotʃatˈtsjoːne ˈkaltʃo ˈmiːlan]), sering disebut sebagai A.C. Milan atau hanya Milan, adalah sebuah klub sepak bola Italia yang berbasis di Milan, Lombardia, yang bermain di Serie A. Mereka bermain dengan seragam bergaris merah-hitam dan celana putih (kadang-kadang hitam), sehingga dijuluki rossoneri ("merah-hitam"). Milan adalah tim tersukses kedua dalam sejarah persepak bolaan Italia, menjuarai Serie A 18 kali dan Piala Italia 5 kali.
+
+Mereka adalah klub paling sukses di dunia sepak bola dalam hal piala internasional bersama dengan Boca Juniors, dengan 18 gelar resmi diakui UEFA dan FIFA.[3] Milan telah memenangkan rekor tiga Piala Interkontinental dan setelah penggantinya, Piala Dunia Antarklub FIFA.[3] Milan juga memenangkan Piala Liga Eropa/Champions tujuh kali.[3] yang kedua setelah Real Madrid.[4] Mereka juga memenangkan rekor Piala Super UEFA lima kali dan Piala Winners UEFA dua kali.[3] Milan memenangkan setiap kompetisi besar di mana ia telah berkompetisi, terkecuali untuk Liga Eropa UEFA (dalam kompetisi ini mereka telah kehilangan dua semifinal pada tahun 1972 dan pada tahun 2002). Secara domestik, dengan 18 gelar liga. Milan adalah gabungan kedua klub paling sukses di Serie A di belakang Juventus (31 gelar), bersama dengan rival lokal Inter.[5] Mereka juga telah memenangkan Coppa Italia lima kali, serta rekor enam kemenangan Supercoppa Italiana.[3]</item>
+
+        <item>Arsenal Football Club (dikenal pula sebagai Arsenal atau The Gunners) adalah klub sepak bola profesional Inggris yang berbasis di daerah Holloway, London. didirikan pada 1886 dengan nama Dial Square. Klub ini bermain di Liga Utama Inggris yang termasuk salah satu klub tersukses di sepak bola Inggris, yang telah memenangkan 13 gelar kasta utama Liga Inggris (10 pada era Divisi Pertama dan 3 pada era Premier League) dan 13 gelar di Piala FA (Gelar paling banyak). Arsenal memegang rekor untuk periode terpanjang berada di kasta puncak Liga Inggris tanpa pernah terdegradasi sejak musim 1919 dan menjadi tim pada peringkat pertama dalam klasemen Liga Inggris sepanjang abad ke-20.[2] Arsenal menjadi tim kedua di Inggris yang menyelesaikan semusim liga tanpa kalah (musim 2003–04) dan tim pertama yang melakukannya pada era di mana satu musim berlangsung 38 pertandingan.</item>
+    </string-array>
+</resources>
